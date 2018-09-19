@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delivery App</string>
+    <string name="fetch_data">Fetch deliveries from server</string>
+    <string name="delete_catch">Delete catch</string>
+</resources>
